@@ -46,7 +46,7 @@
     "babel-preset-node6": "^11.0.0",
     "contentful": "^5.0.5",
     "contentful-management": "^4.1.2",
-    "d3": "^4.12.2",
+    "d3": "^7.0.0",
     "dotenv": "^4.0.0",
     "express": "^4.16.2",
     "inquirer": "^4.0.1",
